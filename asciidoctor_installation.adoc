@@ -1,0 +1,100 @@
+= Introduction to Asciidoctor
+Asciidoctor is a fast text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook and other formats. It is written in Ruby and packaged as a Ruby gem.
+
+== Installing Asciidoctor
+
+.Prerequisites
+* Asciidoctor requires one of the following implementations of Ruby:
+** Ruby version 2.3 or later
+** JRuby version 9.1 or later
+** TruffleRuby version 20.2 or later
+* Supported operating systems:
+** Ubuntu versions18.04 LTS and 20.04 LTS
+** Fedora version 33 or later
+** macOS Mojave, Catalina, and Big Sur
+** Microsoft Windows 10 and Windows Server 2019
+
+.Procedure
+Depending on your operating system, use one of the following package managers to install Asciidoctor:
+
+* Linux operating system:
+** On Debian-based distributions such as Ubuntu, use APT to install Asciidoctor.
++
+[source,bash]
+----
+sudo apt-get install -y asciidoctor
+----
+
+** On RPM-based Linux distributions, such as Fedora, CentOS, and RHEL, use the DNF package manager to install Asciidoctor.
++
+[source,bash]
+----
+sudo dnf install -y asciidoctor
+----
+
+* macOs operating system:
+** Use the Homebrew package manager to install Asciidoctor.
++
+[source,bash]
+----
+brew install asciidoctor
+----
+
+** Use MacPorts to install Asciidoctor gem via the Asciidoctor port.
++
+[source,bash]
+----
+sudo port install asciidoctor
+----
+
+.Verification
+* Verify that Asciidoctor is available.
+
+[source,bash]
+----
+ asciidoctor --version
+----
+
+You should see information about the Asciidoctor version and your Ruby environment printed in the terminal.
+
+[source]
+----
+Asciidoctor 2.0.17 [https://asciidoctor.org]
+Runtime Environment (ruby 3.1.3p185 (2022-11-24 revision 1a6b16756e) [x86_64-linux]) (lc:UTF-8 fs:UTF-8 in:UTF-8 ex:UTF-8)
+----
+
+.Next steps
+. Create and save an AsciiDoc document. You can copy the following example:
++
+
+.sample.adoc
+[source, asciidoc]
+----
+== Writing in AsciiDoc
+
+You can write an AsciiDoc document using any text editor.
+We recommend selecting an editor that supports syntax highlighting for AsciiDoc.
+The color brings contrast to the text, making it easier to read.
+The highlighting also confirms when you’ve entered the correct syntax for an inline or block element.
+
+For more syntax examples see link:https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/[AsciiDoc Syntax Quick Reference].
+
+IMPORTANT: Save the file with a file extension of `.adoc`.
+----
+. From the directory that contains your AsciiDoc document, run the following command.
++
+[source]
+----
+asciidoctor sample.adoc
+----
++
+. List files in the current directory.
+. Open the `sample.html` in your web browser.
+
+[role="_additional-resources"]
+.Additional resources
+* link:https://docs.asciidoctor.org/asciidoctor/latest/install/[Asciidoctor Docs, Install and Update]
+* link:https://docs.asciidoctor.org/asciidoctor/latest/errors-and-warnings/[Asciidoctor Errors and Warnings]
+* link:https://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc Writer’s Guide]
+* link:https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/[AsciiDoc Syntax Quick Reference]
+
