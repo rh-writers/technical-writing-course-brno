@@ -1,0 +1,34 @@
+= Git installation
+
+. Navigate to the link:https://github.com/git-guides/install-git[Install Git guide].
+
+. Follow the steps to install git according to the operating system you are using.
+
+= Configuring git
+
+Configure git in command line interface with the following steps:
+
+. Set your Git user name:
++
+[literal,subs="+quotes,attributes",options="nowrap",role=white-space-pre]
+----
+$ git config --global user.name "_your name_"
+----
+
+. Set your Git user e-mail:
++
+[literal,subs="+quotes,attributes",options="nowrap",role=white-space-pre]
+----
+$ git config --global user.email "_your email_"
+----
+
+.Verification steps
+
+. Ensure that your Git user name and email are set:
++
+[literal,subs="+quotes,attributes",options="nowrap",role=white-space-pre]
+----
+$ git config --get-regexp user
+user.name John Smith
+user.email john.smith@example.com
+----
