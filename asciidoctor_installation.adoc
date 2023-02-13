@@ -10,11 +10,12 @@ It is written in Ruby and packaged as a Ruby gem.
 ** Ruby version 2.3 or later
 ** JRuby version 9.1 or later
 ** TruffleRuby version 20.2 or later
-* Supported operating systems:
+* Operating system requirements:
 ** Ubuntu versions 18.04 LTS and 20.04 LTS
 ** Fedora version 33 or later
 ** macOS Mojave, Catalina, and Big Sur
-** Microsoft Windows 10 and Windows Server 2019
+*** Have Homebrew or MacPorts installed
+** Microsoft Windows 10
 
 .Procedure
 Use your operating system package manager to install Asciidoctor:
@@ -32,6 +33,13 @@ Use your operating system package manager to install Asciidoctor:
 ----
 sudo apt-get install -y asciidoctor
 ----
++
+... Install package for converting AsciiDoc documents to PDF.
++
+[source,bash]
+----
+sudo apt-get install ruby-asciidoctor-pdf
+----
 
 .. On RPM-based Linux distributions, such as Fedora, CentOS, and RHEL, use the DNF to install Asciidoctor.
 +
@@ -40,7 +48,12 @@ sudo apt-get install -y asciidoctor
 sudo dnf install -y asciidoctor
 ----
 +
-. Optional: Visit link:https://pkgs.org/search/?q=asciidoctor-pdf[https://pkgs.org/search/?q=asciidoctor-pdf] to install package for converting AsciiDoc documents to PDF.
+... Install package for converting AsciiDoc documents to PDF.
++
+[source,bash]
+----
+sudo dnf install rubygem-asciidoctor-pdf
+----
 
 [[macos]]
 .macOs operating system
@@ -60,7 +73,7 @@ brew install asciidoctor
 sudo port install asciidoctor
 ----
 
-. Optional: Install `asciidoctor-pdf` package to convert AsciiDoc documents to PDF:
+. Install `asciidoctor-pdf` package to convert AsciiDoc documents to PDF:
 +
 [source,bash]
 ----
@@ -78,7 +91,7 @@ gem install asciidoctor-pdf
 gem install asciidoctor
 ----
 
-. Optional: Install `asciidoctor-pdf` package to convert AsciiDoc documents to PDF.
+. Install `asciidoctor-pdf` package to convert AsciiDoc documents to PDF.
 +
 [source,bash]
 ----
