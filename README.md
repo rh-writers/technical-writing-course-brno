@@ -39,9 +39,9 @@ In the second part of the lecture you will learn about git.
 
 ### 5th lecture: Tooling: 14th March 2023
 * **Prerequisites for this lecture:**
-  * Install AsciiDoctor on your computer. For details, see [AsciiDoctor installation instructions](https://github.com/rh-writers/technical-writing-course-brno/blob/main/asciidoctor_installation.adoc)
+  * Install AsciiDoctor on your computer. For details, see [AsciiDoctor installation instructions](https://github.com/rh-writers/technical-writing-course-brno/blob/main/asciidoctor_installation.adoc).
   * Sign up for a GitHub account.
-  * Set up Git and SSH keys on your computer if you work from the command line. For details see [git configuration instructions](https://github.com/rh-writers/technical-writing-course-brno/blob/main/Git-install.adoc).
+  * Set up Git and SSH keys on your computer if you work from the command line. For details, see [Git configuration instructions](https://github.com/rh-writers/technical-writing-course-brno/blob/main/Git-install.adoc).
   * Alternatively, use the GitHub web interface.
   
 * Introducing single sourced and modular documentation, advantages of using markup languages with ability to set attributes and use conditions, overview of text editors, version control systems, and publishing tools, creating and generating documentation using AsciiDoc and AsciiDoctor
