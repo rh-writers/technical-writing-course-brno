@@ -14,7 +14,8 @@ During the spring semester 2023, we start a pilot project to teach the basics of
 **Course overview:** https://research.redhat.com/courses/muni-techwriting-spring2023/
 
 ## Information only for MUNI students - spring 2023
-For information about assesment, homework and grading, see [Information for MUNI students]
+For information about assesment, homework and grading, see [Information for MUNI students - spring 2023](MUNI-students-spring2023.pdf)
+
 
 ## Lecture Overview
 The lecture overview is only **tentative**.
