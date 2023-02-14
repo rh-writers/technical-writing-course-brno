@@ -38,6 +38,8 @@ The lecture overview is only **tentative**.
 In the second part of the lecture you will learn about git.
 * Link to the presentation - **TBA**
 #### Part 2. Tooling
+* **Prerequisites for this lecture:**
+  * Bring laptop with working operating system to which you have access.
 * Introduction to tooling: markup languages and editors.
 
 ### 5th lecture: Tooling: 14th March 2023
