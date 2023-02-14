@@ -82,7 +82,7 @@ gem install asciidoctor-pdf
 
 [[windows]]
 .Windows operating system
-. On Windows, use Ruby packaging to install Asciidoctor:
+. To install Asciidoctor on Windows operating system, follow the instructions on the official link:https://docs.asciidoctor.org/asciidoctor/latest/install/windows/[Asciidoctor project] web page.
 
 . Use `gem` to install Asciidoctor.
 +
