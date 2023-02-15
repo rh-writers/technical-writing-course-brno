@@ -1,4 +1,7 @@
 # The fundamentals of technical writing | MUNI 2023
+
+![Continuous Integration](https://github.com/rh-writers/technical-writing-course-brno/actions/workflows/ci.yml/badge.svg)
+
 During the spring semester 2023, we start a pilot project to teach the basics of technical writing at the Faculty of Informatics, Masaryk university. You can find more information as follows.
 
 **Disclaimer:** This is a pilot version of the course.
