@@ -25,11 +25,11 @@ The lecture overview is only **tentative**.
 
 ### 1st lecture: Introduction to technical writing: 14th February 2023
 * Definition and purpose of technical writing, comparison between different writing styles, a day in the life of a technical writer, types of technical documentation and their specifics, target audience.
-* Link to the presentation: [Introduction slides](slides/01-slides-Introduction-students.pdf)
+* Link to the presentation: [Introduction slides](/slides/01-slides-Introduction-students.pdf)
 
 ### 2nd lecture: Style: 21st February 2023
 * Accessibility, readability, findability, minimalism, modularity, and structure; user focus and information flow, style guides.
-* Link to the presentation - [Style slides](slides/02-slides-Style-students.pdf)
+* Link to the presentation - [Style slides](/slides/02-slides_Style_students.pdf)
 
 ### 3rd lecture: Soft skills: 28th February 2023
 * Definition of soft skills; empathy, ethics, cultural awareness, communication skills, curiosity, proactivity, editorial skills, time management.
