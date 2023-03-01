@@ -33,7 +33,7 @@ The lecture overview is only **tentative**.
 
 ### 3rd lecture: Soft skills: 28th February 2023
 * Definition of soft skills; empathy, ethics, cultural awareness, communication skills, curiosity, proactivity, editorial skills, time management.
-* Link to the presentation - **TBA**
+* Link to the presentation - [Soft skills slides](/slides/03-slides_Soft-skills_students.pdf)
 
 ### 4th lecture: Hard skills: 7th March 2023
 #### Part 1. Hard skills
