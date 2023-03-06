@@ -4,7 +4,7 @@
 
 . Follow the steps to install git according to the operating system you are using.
 
-= Configuring git
+= Configuring Git
 
 Configure git in command line interface with the following steps:
 
