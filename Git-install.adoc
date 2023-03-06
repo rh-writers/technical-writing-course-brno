@@ -2,11 +2,11 @@
 
 . Navigate to the link:https://github.com/git-guides/install-git[Install Git guide].
 
-. Follow the steps to install git according to the operating system you are using.
+. Follow the steps to install Git according to the operating system you are using.
 
-= Configuring Git
+== Configuring Git
 
-Configure git in command line interface with the following steps:
+Configure Git in command line interface with the following steps:
 
 . Set your Git user name:
 +
