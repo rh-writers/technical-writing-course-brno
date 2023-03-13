@@ -1,2 +1,6 @@
 output/
 index.html
+!slides/index.html
+homework-projects/**/*.html
+!homework-projects/index.html
+homework-projects/**/*.pdf

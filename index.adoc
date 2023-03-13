@@ -6,3 +6,10 @@
 include::asciidoctor_installation.adoc[leveloffset=+1]
 
 include::Git-install.adoc[leveloffset=+1]
+
+== Additional resources
+
+* link:MUNI-students-spring2023.pdf[Information for MUNI students - spring 2023]
+* link:https://github.com/rh-writers/technical-writing-course-brno/blob/main/README.md[README.md]
+* link:slides/[Lecture slides]
+* link:homework-projects/[Student's homework projects]
