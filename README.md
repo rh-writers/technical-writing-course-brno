@@ -44,7 +44,7 @@ In the second part of the lecture you will learn about languages to structure th
 * **Prerequisites for this lecture:**
   * Bring laptop with working operating system to which you have access.
 * Introduction to tooling: markup languages and editors.
-* Link to the presentation - [Hard skills slides](/slides/05-slides_tooling_part-1_students.pdf)
+* Link to the presentation - [Tooling - part 1 slides](/slides/05-slides_tooling_part-1_students.pdf)
 
 ### 5th lecture: Tooling: 14th March 2023
 * **Prerequisites for this lecture:**
