@@ -38,12 +38,13 @@ The lecture overview is only **tentative**.
 ### 4th lecture: Hard skills: 7th March 2023
 #### Part 1. Hard skills
 * Definition of hard skills in technical writing, why we need them, product knowledge - engagement with the development team, understanding user personas, teamwork across QE, product owners, engineers, support teams, planning for tech writing, how to create technical content, content strategy, agile.
-In the second part of the lecture you will learn about git.
-* Link to the presentation - **TBA**
+In the second part of the lecture you will learn about languages to structure the text.
+* Link to the presentation - [Hard skills slides](/slides/04-slides_Hard-skills_students.pdf)
 #### Part 2. Tooling
 * **Prerequisites for this lecture:**
   * Bring laptop with working operating system to which you have access.
 * Introduction to tooling: markup languages and editors.
+* Link to the presentation - [Hard skills slides](/slides/05-slides_tooling_part-1_students.pdf)
 
 ### 5th lecture: Tooling: 14th March 2023
 * **Prerequisites for this lecture:**
