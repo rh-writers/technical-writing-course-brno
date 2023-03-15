@@ -1,0 +1,18 @@
+[[index-file-template]]
+= PhotoCollage Project
+:toc: left
+:toclevels: 3
+
+PhotoCollage is an open-source project that allows you to easily create collages of your favorite
+images.
+
+image::photocollage.png[]
+
+include::benefits.adoc[leveloffset=0]
+
+== Target Users
+PhotoCollage is perfect for open-source enthusiasts who are looking for an easy-to-use tool for
+creating photo collages. It's also ideal for anyone who wants to create photo collages quickly,
+such as bloggers, social media managers, marketers, and graphic designers.
+
+include::installation.adoc[leveloffset=0]

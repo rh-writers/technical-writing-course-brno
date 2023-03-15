@@ -1,0 +1,29 @@
+[[included-file-template-2]]
+== Installation guide
+
+// *Replace me:* This is a included file template #2 with a sample cross reference to xref:included-file-template-1[Included file template #1].
+
+To install PhotoCollage, you can use the following commands based on your operating system:
+
+=== Fedora 19+:
+[source,shell]
+sudo dnf install photocollage
+
+=== Debian 9+ / Ubuntu 16.10+:
+[source,shell]
+sudo apt-get install photocollage
+
+=== Other operating systems:
+Using pip, the Python package manager:
+[source,shell]
+sudo pip3 install photocollage
+
+== How to Use PhotoCollage
+To use PhotoCollage, either run it directly by clicking on its icon in the desktop menu or call the
+photocollage command in your terminal. The program allows you to specify the input images,
+and other settings such as border color and width.
+Once you have specified all the settings, you can generate the collage by running the program.
+The output is a single image file that contains all the input images merged together in the
+randomly generated layout.
+
+For more information visit https://github.com/adrienverge/PhotoCollage[PhotoCollage's GitHub repository].

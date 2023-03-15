@@ -1,0 +1,16 @@
+[[included-file-template-1]]
+== Benefits
+
+// *Replace me:* This is a template included file #1 with a sample cross reference to xref:included-file-template-2[Included file template #2].
+
+Some of the main benefits of PhotoCollage are:
+
+* *It is free and open-source:* PhotoCollage is a completely free and open-source tool, so
+it's accessible to anyone regardless of budget.
+* *It is easy-to-use:* The software is simple to use and doesn't require advanced technical
+skills.
+* *Customizable layouts for collages:* You can swap photos in the generated layout to
+make it look exactly how you want it.
+* *Scalability:* PhotoCollage works even with a large number of photos (eg. more than
+100).
+
