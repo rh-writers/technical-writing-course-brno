@@ -36,5 +36,3 @@ user.email john.smith@example.com
 [role="_additional-resources"]
 .Additional resources
 * link:https://git-scm.com/doc[Git Documentation]
-* link:https://learngitbranching.js.org/[Learn Git Branching]
-* link:https://opensource.com/downloads/cheat-sheet-git[Git Cheat Sheet]

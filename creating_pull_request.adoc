@@ -1,0 +1,57 @@
+== Creating a pull request
+Create a pull request to get your content reviewed and merged to the repository.
+
+.Prerequisites
+* link:https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account[Add SSH key to your Github account.]
+* Fork and clone the link:https://github.com/rh-writers/technical-writing-course-brno[technical-writing-course-brno repository].
+* Have your AsciiDoc content ready.
+
+.Creating a pull request
+This video demonstrates the basic workflow of submitting a pull request. The video includes Linux commands that might not work on other operating systems.
+
+video::Basic-git-workflow.webm[width=640]
+
+.Procedure
+. Navigate to the directory with your AsciiDoc files.
+. Use Asciidoctor to build your content locally:
++
+[source]
+----
+asciidoctor index.adoc
+----
+. Open the adoc.html file using any web browser and verify that your document was converted successfully.
+. Check the status of your Git working directory:
++
+[source]
+----
+git status
+----
+. Add new and changed files to the Git staging are:
++
+[source]
+----
+git add <file-name.adoc> <image.adoc>
+----
+. Create a commit:
++
+[source]
+----
+git commit
+----
++
+Enter your commit message in a text editor. You can also use a shortcut command `git commit -m "<your-commit-message>"`.
+. Push your changes to the base repository:
++
+[source]
+----
+git push origin <branch-name>
+----
+. Follow the URL from your terminal to create a pull request on Github.
+. Type a title and description for your pull request.
+. In the description, tag the names of the teachers to notify them you have completed your homework: @pmkovar @ragevou.
+. Click *Create Pull Request*.
+
+[role="_additional-resources"]
+.Additional resources
+* link:https://learngitbranching.js.org/[Learn Git Branching]
+* link:https://opensource.com/downloads/cheat-sheet-git[Git Cheat Sheet]
