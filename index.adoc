@@ -7,6 +7,8 @@ include::asciidoctor_installation.adoc[leveloffset=+1]
 
 include::Git-install.adoc[leveloffset=+1]
 
+include::creating_pull_request.adoc[leveloffset=+1]
+
 == Additional resources
 
 * link:MUNI-students-spring2023.pdf[Information for MUNI students - spring 2023]
