@@ -1,0 +1,47 @@
+Photo collage is a graphical tool/application used to gather a user’s image gallery
+data and make collage posters according to the user’s design or the results of the
+inbuilt algorithm. This functionality is achieved through images being automatically
+arranged to fill the poster design, and as the user, you can change the final layout,
+dimensions, border or swap out photos. The final poster can be saved in any size.
+
+Refer to xref:template-included-file-1.adoc#Template[Template] for more information.
+https://www.youtube.com/watch?v=_sI_Ps7JSEk[Jazz]
+image::tea.jpg[tea]
+
+Beneficial features:
+
+1) Comprehensive algorithm that generates random layouts that are space
+efficient.
+2) Photos will fill space while maintaining aspect ratio.
+3) Free of charge.
+4) Open-source code.
+5) Access to a library to create layouts and posters.
+6) GTK graphical user interface.
+
+The tool is coded in Python (v2 and 3) and requires Python Imaging Library(PIL).
+Used primarily by photographers and artists running Linux machines, who are
+looking for an open-source solution application to express their creativity and
+display their images in interesting and eye-catching layouts and posters. These
+posters are displayed in online blogs or forums whilst others are printed out for
+offline display.
+
+There are many difficulties in creating poster designs, collage layouts and managing
+proportions in imagery such that users are attracted to your works from clever use
+of colour palettes, sizing and layouts. PhotoCollage’s algorithms solve these
+problems for the user, streamlining the process, allowing for easy use of the
+application yet still providing results for the commercial market.
+
+How to use:
+
+1. Download the installation files from https://github.com/adrienverge/PhotoCollage
+2. On Fedora run sudo dnf install PhotoCollage in the terminal
+2.1. On Debian 9+ run sudo apt-get install photocollage
+2.2. On pip Python manager run sudo pip3 install photocollage
+3. Run installation wizard.
+4. After installation, a launcher for PhotoCollage will appear in your desktop menu.
+5. Run the command PhotoCollage in the terminal
+
+With 352 stars on Github, PhotoCollage has a following of users that are satisfied
+with its performance and features. More updates are being released for the product,
+having its documentation translated into Ukrainian and Brazilian Portuguese
+language in recent patches. Thus reaching more users in the market.
