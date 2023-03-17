@@ -450,6 +450,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <li><a href="#_git_installation">Git installation</a>
 <ul class="sectlevel2">
 <li><a href="#_configuring_git">Configuring Git</a></li>
+<li><a href="#_creating_a_pull_request">Creating a pull request</a></li>
 </ul>
 </li>
 <li><a href="#_additional_resources">Additional resources</a></li>
@@ -774,6 +775,122 @@ user.email john.smith@example.com</pre>
 </li>
 </ol>
 </div>
+<div class="ulist _additional-resources">
+<div class="title">Additional resources</div>
+<ul>
+<li>
+<p><a href="https://git-scm.com/doc">Git Documentation</a></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_creating_a_pull_request">Creating a pull request</h3>
+<div class="paragraph">
+<p>Create a pull request to get your content reviewed and merged to the repository.</p>
+</div>
+<div class="ulist">
+<div class="title">Prerequisites</div>
+<ul>
+<li>
+<p><a href="https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account">Add SSH key to your Github account.</a></p>
+</li>
+<li>
+<p>Fork and clone the <a href="https://github.com/rh-writers/technical-writing-course-brno">technical-writing-course-brno repository</a>.</p>
+</li>
+<li>
+<p>Have your AsciiDoc content ready.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<div class="title">Creating a pull request</div>
+<p>This video demonstrates the basic workflow of submitting a pull request. The video includes Linux commands that might not work on other operating systems.</p>
+</div>
+<div class="videoblock">
+<div class="content">
+<video src="Basic-git-workflow.webm" width="640" controls>
+Your browser does not support the video tag.
+</video>
+</div>
+</div>
+<div class="olist arabic">
+<div class="title">Procedure</div>
+<ol class="arabic">
+<li>
+<p>Navigate to the directory with your AsciiDoc files.</p>
+</li>
+<li>
+<p>Use Asciidoctor to build your content locally:</p>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code>asciidoctor index.adoc</code></pre>
+</div>
+</div>
+</li>
+<li>
+<p>Open the adoc.html file using any web browser and verify that your document was converted successfully.</p>
+</li>
+<li>
+<p>Check the status of your Git working directory:</p>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code>git status</code></pre>
+</div>
+</div>
+</li>
+<li>
+<p>Add new and changed files to the Git staging are:</p>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code>git add &lt;file-name.adoc&gt; &lt;image.adoc&gt;</code></pre>
+</div>
+</div>
+</li>
+<li>
+<p>Create a commit:</p>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code>git commit</code></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>Enter your commit message in a text editor. You can also use a shortcut command <code>git commit -m "&lt;your-commit-message&gt;"</code>.</p>
+</div>
+</li>
+<li>
+<p>Push your changes to the base repository:</p>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code>git push origin &lt;branch-name&gt;</code></pre>
+</div>
+</div>
+</li>
+<li>
+<p>Follow the URL from your terminal to create a pull request on Github.</p>
+</li>
+<li>
+<p>Type a title and description for your pull request.</p>
+</li>
+<li>
+<p>In the description, tag the names of the teachers to notify them you have completed your homework: @pmkovar @ragevou.</p>
+</li>
+<li>
+<p>Click <strong>Create Pull Request</strong>.</p>
+</li>
+</ol>
+</div>
+<div class="ulist _additional-resources">
+<div class="title">Additional resources</div>
+<ul>
+<li>
+<p><a href="https://learngitbranching.js.org/">Learn Git Branching</a></p>
+</li>
+<li>
+<p><a href="https://opensource.com/downloads/cheat-sheet-git">Git Cheat Sheet</a></p>
+</li>
+</ul>
+</div>
 </div>
 </div>
 </div>
@@ -801,7 +918,7 @@ user.email john.smith@example.com</pre>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2023-03-14 10:10:24 UTC
+Last updated 2023-03-17 13:08:48 UTC
 </div>
 </div>
 </body>
