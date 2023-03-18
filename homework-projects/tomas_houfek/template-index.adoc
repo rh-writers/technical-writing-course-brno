@@ -1,0 +1,10 @@
+[[index-file-template]]
+= Managing tasks with TaskWarrior image:https://upload.wikimedia.org/wikipedia/en/5/59/Taskwarrior_logo.png[TaksWarrior icon, 50,50]
+:toc: left
+:toclevels: 3
+
+include::template-included-file-1.adoc[leveloffset=+1]
+
+include::template-included-file-2.adoc[leveloffset=+1]
+
+include::template-included-file-3.adoc[leveloffset=+1]

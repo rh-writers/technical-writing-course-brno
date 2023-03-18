@@ -1,0 +1,38 @@
+[[included-file-template-3]]
+= Quick start
+
+## Add simple tasks
+[source,bash]
+----
+ task add Buy new shoes
+ task add Pay the bills
+----
+
+## List existing tasks
+[source,bash]
+----
+ task list
+----
+
+## Mark tasks as done
+[source,bash]
+----
+ task 1 done
+----
+
+## Adding deadlines to tasks
+[source,bash]
+----
+ task Book Flight Tickets due:2023-3-16
+----
+
+## Creating projects for more complex tasks
+[source,bash]
+----
+ task add project:Kitchen Select floor tiles
+ task add project:Kitchen Measure counter-top
+ task add project:Kitchen Design placement of electrical outlets
+ task add project:Kitchen Locate ideal placement for extractor duct
+ task add project:Kitchen Select and order counter-top material
+ task add project:Kitchen Talk to the Electrician, when the work ca start
+----

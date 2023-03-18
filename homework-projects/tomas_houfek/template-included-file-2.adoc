@@ -1,0 +1,68 @@
+[[included-file-template-2]]
+= Instalation
+
+## Installing using package manager
+
+[cols="1,1"]
+|===
+|*Distribution*
+|*Command*
+
+
+|Debian/Ubuntu
+|sudo apt-get install taskwarrior
+
+|Fedora
+|yum install task
+
+|OpenSUSE
+|zypper install taskwarrior
+
+|Archlinux
+|pacman -S task
+
+|Mac OS
+|brew install task
+|===
+
+## Installing from TAR file
+
+### Dependencies
+
+* To build Task warrior from source install:
+** https://cmake.org/install/[Cmake]			
+* A C++ compiler that supports full C++17:
+** https://gcc.gnu.org/install/[gcc 7.1]
+** https://packages.debian.org/search?keywords=clang-5.0[clang 5.0]
+* Additional libraries:
+** gnutls (only for the sync functionality) 
+[source,bash]
+----
+ sudo apt-get install gnutls-bin
+----
+
+### Installation process
+
+. Download https://github.com/GothenburgBitFactory/taskwarrior/releases/download/v2.6.2/task-2.6.2.tar.gz[tar file]
+. Unzip and open the file
+[source,bash]
+----
+ tar xzvf task-2.6.2.tar.gz
+ cd task-2.6.2
+----
+. Build the image and install 
+[source,bash]
+----
+ cmake -DCMAKE_BUILD_TYPE=release .
+ make
+ sudo make install
+----
+****
+*Troubleshooting:* _Cannot find GnuTLS when building_
+
+Run cmake with additional flag:
+[source,bash]
+----
+cmake -DCMAKE_BUILD_TYPE=release -DENABLE_SYNC=OFF .
+----
+****
