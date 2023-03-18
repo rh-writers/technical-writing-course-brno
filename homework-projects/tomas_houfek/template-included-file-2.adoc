@@ -10,19 +10,19 @@
 
 
 |Debian/Ubuntu
-|sudo apt-get install taskwarrior
+|`sudo apt-get install taskwarrior`
 
 |Fedora
-|yum install task
+|`yum install task`
 
 |OpenSUSE
-|zypper install taskwarrior
+|`zypper install taskwarrior`
 
 |Archlinux
-|pacman -S task
+|`pacman -S task`
 
 |Mac OS
-|brew install task
+|`brew install task`
 |===
 
 ## Installing from TAR file

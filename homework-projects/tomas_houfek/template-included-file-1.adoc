@@ -1,10 +1,10 @@
 [[included-file-template-1]]
 = Overview
 
-TaskWarrior provides tools to manage your TODOs inside the command line. TaskWarrior is for those who are in daily touch with the command-line. It helps  you to manage your tasks, control your workflow and not forget important tasks. TaskWarrior is completely free and open-source.
+TaskWarrior provides tools to manage your TODOs inside the *command-line*. TaskWarrior is for those who are in daily touch with the *command-line*. It helps  you to manage your tasks, control your workflow and not forget important tasks. TaskWarrior is *completely free* and *open-source*.
 
 ....
-!Note: TaskWarrior is only for Unix based OS!
+!Note: TaskWarrior is available only for Unix based OS!
 ....
 
 * xref:included-file-template-2[Installation]
