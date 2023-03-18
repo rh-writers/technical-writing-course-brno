@@ -1,0 +1,188 @@
+[#1]####**Name and surname: Kaustav Bakshi** +
+*Max points: 25* +
+*Učo: 530720* +
+*Acquired points:* +
+**Link to g-doc: +
+https://docs.google.com/document/d/179Hhz7WqcF-P07o-tqXBJ1-mTxohdisbDOcyQ +
+RHw3zI/edit +
+**Save the file as PDF and upload it to the respective “Odevzdávárna/depository” by 14th Mar 2023, +
+11:59 a.m. +
+Do not forget to add the link to the g-doc version for review with commenter rights. +
+TW course Hard skills homework +
+Homework task +
+1. Choose one of the following open source projects: +
+a. https://github.com/phw/peek[https://github.com/phw/peek +
+]b. https://github.com/adrienverge/PhotoCollage[https://github.com/adrienverge/PhotoCollage +
+]c. https://taskwarrior.org/ +
+2. Fill out the following statement about the project you’ve chose: +
+As a ___________, I need ________, so that I ____________ . +
+3. Write a draft documentation about the chosen project that answers the following +
+questions: +
+Describe the product: benefits, what it does +
+a. Who uses the product? +
+b. Why do users need it? +
+c. How to use the product? +
+d. Do users accomplish their goal? +
+4. Create the content based on the questions above. +
+5. Send your homework for the evaluation. +
+*Write your draft here* +
+2. As a technical researcher, I need Peek, so that I can capture my screen for making tutorial +
+videos. +
+
+'''''
+
+[#2]####3. Describe the product: benefits, what it does. +
+**About Peek +
+**Peek is useful for creating tutorials, bug reports, demonstrations and screen +
+capture in general. It is easy to use and provides a simple and efficient way to +
+share information with others. +
+**How it works +
+**Users can select a specific region of their screen to record, adjust the frame rate +
+and quality of the recording, and add annotations such as text or arrows. Once +
+the recording is complete, the user can preview it before saving it as a GIF or +
+video file. The recording can also be directly uploaded to various platforms like +
+Imgur, Dropbox, etc. +
+*Benefits of Peek* +
+● After recording, Peek allows users to easily share their recordings with +
+others through various platforms like Imgur, Dropbox, and Gfycat. This +
+makes it an efficient way to communicate ideas and information with +
+others. +
+● It allows users to quickly capture and share animated GIFs or videos of +
+their screen without the need for complex settings or configurations. +
+● Peek has a simple and intuitive interface, making it easy to use for both +
+beginners and advanced users. +
+● For people working from home or remotely, Peek is a helpful tool for +
+capturing and sharing screen recordings with colleagues, clients, or team +
+members who are not physically present. +
+a. Who uses the product? +
+*For whom Peek is intended for* +
+● Software developers: Software developers can use Peek to create +
+animated gifs or videos of their software applications to demonstrate new +
+features, explain how to use the software, and report bugs. +
+● Content creators: Content creators, YouTubers, can use Peek to capture +
+short snippets of their screen to include in their content. +
+● Educators: Tutors can use Peek to create short animated GIFs or videos +
+to explain complex concepts, illustrate difficult problems, or provide visual +
+aids for their students. +
+b. Why do users need it? +
+*Reasons for using Peek* +
+
+'''''
+
+[#3]####● Providing visual content: Content creators can use Peek to capture short +
+snippets of their screen to include in their content, providing a visual aid to +
+their audience. +
+● Creating tutorials: Peek allows users to easily record and share short +
+animated gifs and videos of their screen, making it a useful tool for +
+creating tutorials and how-to guides. +
+● Collaborating remotely: People working from home or remotely can use +
+Peek as a helpful tool for capturing and sharing screen recordings with +
+colleagues, clients, or team members who are not physically present. +
+c. How to use the product? +
+**Installation +
+**Peek is available in package repositories of various Linus distributions: +
+1. Arch Linux +
+sudo pacman -S peek +
+2. Debian +
+sudo apt install peek +
+3. Fedora +
+sudo dnf install peek +
+4. Ubuntu +
+sudo apt install peek +
+5. Elementary OS +
+sudo apt install peek +
+6. Solus +
+sudo eopkg it peek +
+Please check the https://github.com/phw/peek#about[GitHub repository ]for installation according to your Linux +
+distribution. +
+*Prerequisites before installation* +
+
+'''''
+
+[#4]####● GTK+ 3.20 +
+● GLib 2.38 +
+● Libkeybinder3 +
+● FFmpeg 3 +
+● GStreamer 'Good' plugins (for recording on GNOME Shell) +
+● gifski (optional but recommended for improved GIF quality) +
+**Launch Peek +
+**Launch Peek from the applications menu or by typing "peek" in the terminal. +
+**Select the region to record +
+**Use the mouse to select the area of the screen to record. You can choose to +
+record the entire screen or a specific region. +
+**Adjust recording settings +
+**Adjust the recording settings, such as the frame rate and quality of the recording +
+before clicking on record. +
+**Start recording +
+**Click the "Record" button to start recording. You will see a countdown before the +
+recording starts. +
+**Stop recording +
+**Click the "Stop" button to stop recording. +
+**Preview recording +
+**You can preview the recording before saving it. +
+**Save or share the recording +
+**You can save it as a GIF or video file. You can also directly upload the recording +
+to various platforms like Imgur, Dropbox etc. +
+d. Do users accomplish their goal? +
+Users can accomplish their goal by adjusting the proper frame rate before +
+recording the screen capture. With many people working remotely, peek is an +
+intuitive and efficient way to capture what are the outputs they are getting when +
+developing some code. +
+Educators can show their students how to solve tasks using Peek which can +
+capture what the instructor is doing, with the students following the gifs or videos. +
+Content creators can use Peek to showcase how their code works by showing +
+their screen captures in videos. +
+
+'''''
+
+[#5]####Its simple and intuitive interface makes it easy to use, and its ability to capture +
+and edit animated GIFs or videos of the screen is highly valuable. Therefore, +
+users can accomplish their goals effectively by using Peek. +
+4. Procedure of recording screen using Peek +
+Peek has the single task of making users life easy by allowing the users to select +
+the region on their screen where they want to record and start recording. It +
+creates small, silent screencasts of an area in WebM or MP4. Peek is optimized +
+for generating gifs, but you can use it to record videos using the frame rate of +
+your choice. The supported file types are : +
+● MP4 +
+● WebM +
+● APNG +
+● GIF +
+*Install Peek* +
+You can use Flatpak for systems that support it to download and install it from. +
+Although users have the option of using AppImage as well. +
+CLI Method +
+Open terminal (CTRL + ALT + T) +
+On the terminal type (for first time flapak users, they need to follow the https://flatpak.org/setup/[flapak +
+setup instructions ]first) +
+flatpak install flathub com.uploadedlobster.peek +
+to install on your device. For full functionality of screen,you should run the +
+command to install the additional modules +
+flatpak run com.uploadedlobster.peek +
+Graphical method +
+Open your browser and in the address bar, type the URL or simple copy and +
+paste it. +
+https://flathub.org/repo/appstream/com.uploadedlobster.peek.flatpakref +
+
+'''''
+
+[#6]####Download the file and open it with the GNOME software. +
+*How to start Peek* +
+1. In the terminal window open, simply type peek. +
+2. Once the application has been started, position the window over the area +
+of your screen you want to record. Please note the window can be resized +
+to fit. +
+3. Simply click on the record button to start the recording. Make sure to +
+check with whatever you need to record. +
+It is important to note that Peek does not record mouse clicks, keystrokes or +
+audio. This is relevant if you are recording and wish to save the screencast as +
+MP4 format. +
+Please refer to the https://github.com/phw/peek#how-can-i-capture-mouse-clicks-andor-keystrokes[GitHub page ]for capturing mouse click, and keystrokes. +
+After you’ve done capturing the screen recording, just choose your preferred +
+output format in the preferences in Peek. +
+*Summary* +
+Peek is a very simple and easy to use tool. We hope you will enjoy making small +
+interactive gifs or videos to quickly record videos to show someone else or for +
+tutorials. +
+
+'''''

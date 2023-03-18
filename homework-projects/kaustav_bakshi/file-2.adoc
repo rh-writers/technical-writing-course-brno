@@ -1,0 +1,63 @@
+[[file-2]]
+= file 2
+
+[%hardbreaks]
+== *4. Procedure of recording screen using Peek* 
+
+Peek has the single task of making users life easy by allowing the users to select +
+the region on their screen where they want to record and start recording. It +
+creates small, silent screencasts of an area in WebM or MP4. Peek is optimized +
+for generating gifs, but you can use it to record videos using the frame rate of +
+your choice. The supported file types are : +
+● MP4 +
+● WebM +
+● APNG +
+● GIF +
+
+=== *Install Peek* +
+You can use Flatpak for systems that support it to download and install it from. +
+Although users have the option of using AppImage as well. +
+
+`*CLI Method*` +
+Open terminal +
+You can download and install Peek depending 
+on the type of linux distribution you have. +
+xref:file-1.adoc[Check file-1 for instruction set]
+
+On the terminal type (for first time flapak users, they need to follow the https://flatpak.org/setup/[flapak +
+setup instructions ]first) +
+----
+flatpak install flathub com.uploadedlobster.peek
+----
+to install on your device. For full functionality of screen,you should run the +
+command to install the additional modules +
+----
+flatpak run com.uploadedlobster.peek 
+----
+
+`*Graphical method*` +
+Open your browser and in the address bar, type the URL or simple copy and +
+paste it. +
+https://flathub.org/repo/appstream/com.uploadedlobster.peek.flatpakref[Flatpak] +
+Download the file and open it with the GNOME software. +
+
+=== *How to start Peek* +
+1. In the terminal window open, simply type peek. +
+2. Once the application has been started, position the window over the area +
+of your screen you want to record. Please note the window can be resized +
+to fit. +
+3. Simply click on the record button to start the recording. Make sure to +
+check with whatever you need to record. +
+It is important to note that Peek does not record mouse clicks, keystrokes or +
+audio. This is relevant if you are recording and wish to save the screencast as +
+MP4 format. +
+Please refer to the https://github.com/phw/peek#how-can-i-capture-mouse-clicks-andor-keystrokes[GitHub page]for capturing mouse click, and keystrokes. +
+After you’ve done capturing the screen recording, just choose your preferred +
+output format in the preferences in Peek. +
+
+==== *Summary* +
+Peek is a very simple and easy to use tool. We hope you will enjoy making small +
+interactive gifs or videos to quickly record videos to show someone else or for +
+tutorials. +
+
+
