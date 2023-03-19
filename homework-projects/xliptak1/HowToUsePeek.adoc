@@ -1,0 +1,24 @@
+[[HowToUsePeek]]
+= Using Peek
+
+[NOTE]
+You need Peek installed on your PC, if you do not know how see xref:peekMain#installation[How to install?].
+
+
+. Launch Peek from your Linux application menu or by running ``peek`` in the terminal.
+. Move the *Peek window* over the part of the screen you want to record.
+. *Click* on the three line icon (Hamburger menu) in the right top
+corner to change the *window size*.
+. *Click* on the downward arrow icon in the left
+upper corner to change your preferred format of recording.
+. *Click* the ``Record`` button in the Peek window to start recording.
+. *Click* the ``Stop`` button in the Peek window to end the recording.
+. Choose a location to save the recording, name it and click on ``Save``
+
+xref:peekMain[Back to start.]
+
+
+
+
+
+
