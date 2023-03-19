@@ -1,7 +1,8 @@
 [[included-file-template-2]]
-== Installation guide
 
-// *Replace me:* This is a included file template #2 with a sample cross reference to xref:included-file-template-1[Included file template #1].
+[#installation]
+== Installation guide
+*Note:* To read about PhotoCollage and its benefits, see xref:about.adoc#about[About PhotoCollage].
 
 To install PhotoCollage, you can use the following commands based on your operating system:
 

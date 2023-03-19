@@ -1,8 +1,15 @@
 [[included-file-template-1]]
+
+[#about]
+== What is PhotoCollage
+*Note:* To install PhotoCollage, see the xref:installation.adoc#installation[Installation Guide].
+
+PhotoCollage is an open-source project that allows you to easily create collages of your favorite
+images.
+
+image::photocollage.png[]
+
 == Benefits
-
-// *Replace me:* This is a template included file #1 with a sample cross reference to xref:included-file-template-2[Included file template #2].
-
 Some of the main benefits of PhotoCollage are:
 
 * *It is free and open-source:* PhotoCollage is a completely free and open-source tool, so
