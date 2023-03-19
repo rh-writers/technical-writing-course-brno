@@ -1,0 +1,30 @@
+[[taskwarrior-introduction]]
+= Taskwarrior
+
+
+== Introduction 
+
+
+Taskwarrior is an application that helps you manage your TODO list from your command line. If you are a Linux user that prefers to work from the command line without having to bother with clumsy user interfaces, Taskwarrior is the perfect tool to fit your task keeping needs, no matter how complex they may be.
+
+== Why Taskwarrior?
+
+
+Using Taskwarrior has many benefits, the highlight being the natural syntax of the program. Creating a complicated task that in a GUI app would take you plenty of clicks is as simple as typing
+[source,shell, subs="quotes"]
+----
+$ task add *Prepare* the *first* draft *of* the proposal due:friday
+----
+Along the friendly syntax there is also a friendly and active Taskwarrior community that’s constantly active on Github and IRC and ready to provide advice if you need help.
+
+== Install Guide
+
+
+You have multiple ways of installing Taskwarrior:
+
+* Taskwarrior binary is available in all the major distribution repositories under package name `task`
+* Downloading a release tarball from https://taskwarrior.org/download[our website].
+* Cloning our https://github.com/GothenburgBitFactory/taskwarrior[Github] and building it from scratch.
+
+
+Once you have Taskwarrior installed refer to xref:taskwarrior-usage[Using Taskwarrior] to learn how to use it.
