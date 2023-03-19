@@ -1,0 +1,25 @@
+[[using_photocollage]]
+= Using PhotoCollage
+
+By uploading the input photos, you generate a big poster. *PhotoCollage* automatically arranges the photos to fill the whole poster. Afterwards, you can change the final layout, dimensions, border, or swap photos in the generated grid.
+
+image::layout.png[Layout]
+
+The algorithm generates random layouts that place photos while taking advantage of all free space. It tries to fill all space while keeping each photo as large as possible. You can generate new layouts until finding one that suits you. The color and width of the borders are changeable.
+
+*PhotoCollage* is currently available in 10 languages:
+
+* [.mark]#English#
+* [.mark]#French#
+* [.mark]#German#
+* [.mark]#Czech#
+* [.mark]#Italian#
+* [.mark]#Bulgarian#
+* [.mark]#Dutch#
+* [.mark]#Russian#
+* [.mark]#Spanish#
+* [.mark]#Ukrainian#
+
+*Note:* PhotoCollage is written in Python (compatible with versions 2 and 3) and requires the *Python Imaging Library* (PIL).
+
+To learn how to install and launch *PhotoCollage*, visit our https://github.com/adrienverge/PhotoCollage[[.underline]#Installation Guide#].
