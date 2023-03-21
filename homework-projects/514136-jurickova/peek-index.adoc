@@ -1,0 +1,10 @@
+[[peek-index]]
+= Recording your screen using Peek
+:toc: left
+:toclevels: 3
+
+Peek is a screen recording tool for Linux. It records silent short videos in several formats - GIF, MP4, WebM and APNG. It is usefull for creating quick tutorials and demostrations of software aplications.
+
+include::running-peek.adoc[leveloffset=+1]
+
+include::peek-recording.adoc[leveloffset=+1]

@@ -1,0 +1,12 @@
+[[running-peek]]
+= Running Peek
+
+*Skip this step:* If you already know how to run Peek you can skip to xref:peek-making-a-recording[making a recording].
+
+
+After installing Peek on your device according to the instructions concerning your Linux distribution following the https://github.com/phw/peek#installation[installation guide], you should be able to run Peek in two ways:
+
+* Open Peek as an application from your application menu
+* Enter and run `peek` in your terminal
+
+Peek will appear as a transparent application window with a simple border showing what’s open on your screen. 
