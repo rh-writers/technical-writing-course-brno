@@ -1,0 +1,29 @@
+[[basic-usage]]
+= Basic usage
+
+This section describes basic usage of *Taskwarrior*.
+
+To add a task to your list, use the following command:
+
+[source, bash]
+----
+$ task add Make tea 
+
+$ task add Make soup
+----
+
+To modify a task in your list, use the following command:
+
+ $ task 1 modify Make coffee
+
+To view your list, use the following command:
+
+ $ task list
+
+To mark a task as done, use the following command:
+
+ $ task 1 done
+
+To remove a task from your list, use the following command:
+
+ $ task 2 delete

@@ -1,0 +1,10 @@
+[[index]]
+= Using Taskwarrior
+:toc: left
+:toclevels: 3
+
+include::intro.adoc[leveloffset=+1]
+
+include::installation.adoc[leveloffset=+1]
+
+include::basic-usage.adoc[leveloffset=+1]

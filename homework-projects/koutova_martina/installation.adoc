@@ -1,0 +1,42 @@
+[[installation]]
+= Installation
+
+[cols="a,a"]
+|===
+| Distribution | Command
+
+| Debian, Ubuntu
+|
+[source, bash] 
+----
+sudo apt-get install taskwarrior
+----
+
+| Fedora
+| 
+[source, bash] 
+----
+yum install task
+----
+
+| Archlinux
+| 
+[source, bash] 
+----
+pacman -S task
+----
+
+| Mac OS X with Homebrew
+| 
+[source, bash] 
+----
+brew install task
+----
+
+| Windows 10 with Bash on Ubuntu on Windows 10
+| 
+[source, bash] 
+----
+apt-get install task
+----
+|===

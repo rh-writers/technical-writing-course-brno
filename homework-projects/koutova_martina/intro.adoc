@@ -1,0 +1,30 @@
+[[intro]]
+= Introduction
+*Taskwarrior* is a free and open source software that manages to-do lists from a command line. *Taskwarrior* does not have a graphical user interface (GUI), so we recommend *Taskwarrior* for command line users.
+
+*Taskwarrior* is available on Linux/Unix, Windows, and Mac OS.
+
+To install *Taskwarrior*, go to xref:installation[Installation].
+
+== What can you do with Taskwarrior?
+
+.With *Taskwarrior*, you can manage simple to-do lists.
+* Add tasks.
+* Edit tasks.
+* View tasks.
+* Remove tasks.
+* Complete tasks.
+
+To see examples of managing simple to-do lists, go to xref:basic-usage[Basic usage].
+
+.To customize and add functionality to your to-do lists, you can use other *Taskwarrior's* commands.
+* Set a priority.
+* Set a due date.
+* Set tags.
+* Set dependencies.
+
+Find all commands in https://taskwarrior.org/docs/commands/[documentation].
+
+.Taskwarrior example
+image::https://upload.wikimedia.org/wikipedia/commons/1/1b/Taskwarrior_screenshot.png[Taskwarrior example]
+
