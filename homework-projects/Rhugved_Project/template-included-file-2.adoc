@@ -3,12 +3,17 @@
 
 *Replace me:* This is a included file template #2 with a sample cross reference to xref:template-included-file-1.adoc[Included file template #1]. +
 
+[[Title]]
+=== Title: +
+Peek: Your Ultimate Screen Recording Tool for Professional-Quality Instructional Videos
+
 [[Introduction]]
 === Introduction: +
-Open-source screen recording software called Peek offers a quick and effective solution to produce lessons or instructional movies. This documentation's goal is to provide the end users with a step-by-step guide to using Peek by outlining all of its features and functionalities. +
+Peek is open-source software that enables users to record a part or the entire screen across multiple platforms. It is a useful tool for educators or instructors who need to create video content. 
+The purpose of this documentation is to provide users with a comprehensive guide to utilizing Peek's features and functionalities.
 
 [[installation]]
-=== installation: +
+=== installation: +	
 Peek has to be downloaded and installed on the device before being used.
 Follow the below steps to finish the straightforward installation process: +
 1. Download the software that is compatible with your operating system from the Peek website. +
@@ -16,7 +21,7 @@ Follow the below steps to finish the straightforward installation process: +
 3. To finish the installation procedure, adhere to the wizard's directions. +
 
 
-image::https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU[github,300,200] 
+image::https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU[github,300,200]
 For more information about the Recording procedure, kindly visit https://github.com/phw/peek[github.] +
 
 [[recording]]
@@ -37,6 +42,7 @@ Peek application offers several features that make it an ideal tool for creating
 4. Peek has a countdown timer that allows users to get ready before beginning a recording.+
 
 
-[[conclusion]]
-=== conclusion: +
-For educators, trainers, content creators, and other professionals who need to make instructional or tutorial videos, Peek is a flexible and user-friendly screen recording tool that they will love. Peek makes it simple for users to create high-quality videos that are adapted to their own needs because to its straightforward installation procedure, customization possibilities, and practical features.
+[[Verification]]
+=== Verification: +
+It is advised to check the output video file to make sure it satisfies the necessary criteria, including resolution, audio quality, and format compatibility, once the 
+installation and recording are finished. Checking the recorded movies' storage location is also advised to prevent data loss and disk space problems.
