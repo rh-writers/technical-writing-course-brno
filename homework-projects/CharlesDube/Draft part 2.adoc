@@ -1,0 +1,24 @@
+= PhotoCollage procedure 
+Charles Dube<charles.raziel@gmail.com>
+include:: Draft Part 1
+
+There are many difficulties in creating poster designs, collage layouts and managing
+proportions in imagery such that users are attracted to your works from clever use
+of colour palettes, sizing and layouts. PhotoCollage’s algorithms solve these
+problems for the user, streamlining the process, allowing for easy use of the
+application yet still providing results for the commercial market.
+
+== [.How to use:]
+
+.1. Download the installation files from https://github.com/adrienverge/PhotoCollage
+..2. On Fedora run sudo dnf install PhotoCollage in the terminal
+..2.1. On Debian 9+ run sudo apt-get install photocollage
+..2.2. On pip Python manager run sudo pip3 install photocollage
+...3. Run installation wizard.
+....4. After installation, a launcher for PhotoCollage will appear in your desktop menu.
+.....5. Run the command PhotoCollage in the terminal
+
+With 352 stars on Github, PhotoCollage has a following of users that are satisfied
+with its performance and features. More updates are being released for the product,
+having its documentation translated into Ukrainian and Brazilian Portuguese
+language in recent patches. Thus reaching more users in the market.

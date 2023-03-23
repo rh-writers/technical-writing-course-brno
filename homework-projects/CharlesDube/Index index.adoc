@@ -5,7 +5,9 @@
 
 *Replace me:* This index file template contains two included files listed below.
 
-include::Draft.adoc[leveloffset=+1]
+include::Draft Part 1.adoc[leveloffset=+1]
+
+include::Draft Part 2.adoc[leveloffset=+1]
 
 include::https://media.tenor.com/OqvDDg1mwCMAAAAC/i-dont-know-what-the-hell-im-doing-matt-logelin.gif[leveloffset=+1]
 
