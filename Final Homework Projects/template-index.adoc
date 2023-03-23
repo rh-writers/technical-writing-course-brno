@@ -1,0 +1,9 @@
+[[index-file-template]]
+= PhotoCollage Index
+:toc: left
+:toclevels: 3
+
+
+include::template-included-file-1.adoc[leveloffset=+1]
+
+include::template-included-file-2.adoc[leveloffset=+1]
