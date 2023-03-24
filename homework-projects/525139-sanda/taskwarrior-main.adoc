@@ -1,4 +1,4 @@
-[[task-warrior-main]]
+[[taskwarrior-main]]
 = Taskwarrior
 Taskwarrior is a Free and Open Source TODO list manager in command line
 
@@ -32,7 +32,7 @@ To use *Taskwarrior*, you need to download it from the https://taskwarrior.org/d
 Once installed, you can start managing your tasks using the command line.
 
 == Usage
-For detailed usage overview, head to the xref:taskwarrior-usage[usage page].
+For detailed usage overview, head to the xref:taskwarrior-usage[how to use page].
 
 == Images of the CLI interaction
 image::images/tasks.png[title="Tasks summary"]

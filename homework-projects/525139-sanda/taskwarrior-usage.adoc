@@ -1,5 +1,5 @@
-[[task-warrior-usage]]
-= Taskwarrior usage
+[[taskwarrior-usage]]
+= How to use Taskwarrior
 
 == Usage
 To use *Taskwarrior*, you need to download and install it first. If don't have *Taskwarrior* installed, look at the xref:taskwarrior-main#installation[installation on main page].
