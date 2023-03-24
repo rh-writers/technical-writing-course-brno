@@ -1,0 +1,45 @@
+[[included-file-template-2]]
+= Peek: An Easy-to-Use Screen Recording Application +
+
+Replace me: This is a included file template #2 with a sample cross reference to xref:template-included-file-1.adoc[Included file template #1]. 
+
+
+image::vector.png[300,300]
+
+Peek is a screen recording application designed for Linux users who want to create short screencasts for various purposes. This documentation will guide you through Peek's features and functions, as well as how to use them effectively.
+
+=== Getting Started 
+
+To begin using Peek, you need to download and install the software. Peek can be installed using the appropriate package manager on Debian, Gentoo, NixOS, Soulas, Parabola, OpenSuse Tumbleweed, Fedora, and Arch Linux.
+
+Once Peek has been installed, you can launch it from the application menu or by typing "peek" into the terminal.
+
+=== Creating a Screencast
+
+==== To record a screencast with Peek, follow these steps:
+
+
+1. Launch Peek from the application menu or by typing _"peek"_ in the terminal. +
+
+2. Click on the *"New Recording"* button in the Peek window. +
+
+3. Drag the recording area to select the part of the screen that you want to record. +
+
+4. Click on the *"Record"* button to start the recording. +
+
+5. When you have finished recording, click on the *"Stop"* button. +
+
+6. Choose the output format for your screencast - GIF, WebM, or MP4 video file. +
+
+7. Preview your screencast to make sure it looks okay. +
+
+8. Save your screencast to your preferred location. +
+
+[NOTE]
+=====
+Peek also allows you to adjust the recording quality, frame rate, and mouse cursor visibility. You can change these options by clicking the "Settings" button in the Peek window.
+=====
+
+== Conclusion ==
+
+Peek is a user-friendly and efficient screen recording application for Linux users. With its integration with the GNOME desktop environment, Peek is a useful tool for creating short screencasts for various purposes. Follow the steps outlined above to use Peek effectively and produce high-quality screencasts.
