@@ -1,0 +1,8 @@
+[[index]]
+= Taskwarrior docs
+:toc: left
+:toclevels: 3
+
+include::taskwarrior-main.adoc[leveloffset=+1]
+
+include::taskwarrior-usage.adoc[leveloffset=+1]

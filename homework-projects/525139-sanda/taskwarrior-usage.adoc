@@ -1,0 +1,37 @@
+[[task-warrior-usage]]
+= Taskwarrior usage
+
+== Usage
+To use *Taskwarrior*, you need to download and install it first. If don't have *Taskwarrior* installed, look at the xref:taskwarrior-main#installation[installation on main page].
+
+Here are some basic commands to get you started:
+
+=== Adding a new task
+* To create a new task, run `task add "<task_description>"`
+* For example `task add "Buy milk"`
+
+=== Viewing all your tasks
+* To view all your tasks, run `task list`
+
+=== Marking a task as done
+* When you complete a task, you can mark it as done by running `task <task_ID> done`
+* For example `task 1 done`
+
+=== Editing a task
+* To edit a task, run `task <task_ID> modify "<task_description>"`
+* For example `task 1 modify "Buy milk and chocolate"`
+
+=== Setting a due date
+* To set a due date for a task, run `task <task_ID> due <due_date>`
+* For example `task 1 due tomorrow`
+
+=== Setting priority
+* To set a priority for a task, run `task <task_ID> pri <priority>`
+* For example `task 1 pri H`, where the priority can be from `H` (highest) to `L` (lowest)
+
+=== Deleting a task
+* To delete a task, run `task <task_ID> delete`
+* For example `task 1 delete`
+
+
+For more complex commands, refer to the https://asciidoctor.org[full documentation available on the Taskwarrior website]. There are also many extensions available for *Taskwarrior* that can be used for different purposes, such as scheduling recurring tasks or adding notes to tasks.
