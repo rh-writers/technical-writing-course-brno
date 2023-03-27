@@ -7,5 +7,5 @@ TaskWarrior provides tools to manage your TODOs inside the *command-line*. TaskW
 !Note: TaskWarrior is available only for Unix based OS!
 ....
 
-* xref:included-file-template-2[Installation]
-* xref:included-file-template-3[Quick Start]
+* xref:installation[Installation]
+* xref:quick-start[Quick Start]

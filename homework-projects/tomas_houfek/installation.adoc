@@ -45,12 +45,14 @@
 
 . Download https://github.com/GothenburgBitFactory/taskwarrior/releases/download/v2.6.2/task-2.6.2.tar.gz[tar file]
 . Unzip and open the file
+
 [source,bash]
 ----
  tar xzvf task-2.6.2.tar.gz
  cd task-2.6.2
 ----
 . Build the image and install 
+
 [source,bash]
 ----
  cmake -DCMAKE_BUILD_TYPE=release .

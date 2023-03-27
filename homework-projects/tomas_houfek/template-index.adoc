@@ -3,8 +3,8 @@
 :toc: left
 :toclevels: 3
 
-include::template-included-file-1.adoc[leveloffset=+1]
+include::overview.adoc[leveloffset=+1]
 
-include::template-included-file-2.adoc[leveloffset=+1]
+include::installation.adoc[leveloffset=+1]
 
-include::template-included-file-3.adoc[leveloffset=+1]
+include::quick-start.adoc[leveloffset=+1]
