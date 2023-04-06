@@ -1,0 +1,28 @@
+image::peek002.jpg[500,200]
+
+[[Title]]
+=== Title: +
+Peek: Your Ultimate Screen Recording Tool for Professional-Quality Instructional Videos
+
+[[Introduction]]
+=== Introduction: +
+Peek is open-source software that enables users to record a part or the entire screen across multiple platforms. It is a useful tool for educators or instructors who need to create video content. 
+The purpose of this documentation is to provide users with a comprehensive guide to utilizing Peek's features and functionalities.
+
+[[installation]]
+=== installation: +	
+Peek has to be downloaded and installed on the device before being used.
+Follow the below steps to finish the straightforward installation process: +
+1. Download the software that is compatible with your operating system from the Peek website. +
+2. Double-click the installation file to launch the installation procedure when the download is finished. +
+3. To finish the installation procedure, adhere to the wizard's directions. +
+
+
+For more information about the Recording procedure, kindly visit https://github.com/phw/peek[github.] +
+
+image::https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU[github,300,200]
+
+For recording procedure kindly folow the below link: +
+xref:template-included-file-2.adoc[Recording]
+
+
