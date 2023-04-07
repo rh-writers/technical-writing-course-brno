@@ -15,6 +15,6 @@ find -iname "*index*.adoc" -path "*/homework-projects/*" -type f -exec asciidoct
 
 find -path "*/homework-projects/*" -type d -exec cp -r --verbose {} ${CURRENT_PATH}/output/homework-projects/ \;
 
-cp -r -t ${CURRENT_PATH}/output/ ${CURRENT_PATH}/slides/ ${CURRENT_PATH}/MUNI-students-spring2023.pdf
+cp -r -t ${CURRENT_PATH}/output/ ${CURRENT_PATH}/slides/ ${CURRENT_PATH}/MUNI-students-spring2023.pdf ${CURRENT_PATH}/Basic-git-workflow.webm
 
 cp -t ${CURRENT_PATH}/output/homework-projects/ ${CURRENT_PATH}/homework-projects/index.html
