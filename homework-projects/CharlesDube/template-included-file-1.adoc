@@ -1,10 +1,12 @@
-[[included-file-template-1]]
-= Included file template #1
+[[PhotoCollage]]
+== Photo Collage
 
-*Replace me:* This is a template included file #1 with a sample cross reference to xref:Draft.adoc[Included file Draft].
-https://www.youtube.com/watch?v=_sI_Ps7JSEk[_sI_Ps7JSEk]}
-image::tea.jpg[]
+[[Reference links to parts of document]]
+[.lead]
+Refer to xref:PhotoColage Part 1.adoc#PhotoColage Part 1[Part 1] for more information. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[%hardbreaks]
+Refer to xref:PhotoColage Part 2.adoc#PhotoColage Part 2[Part 2] for more information. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[[UserFeedback]]
+With 352 stars on Github, PhotoCollage has a following of users that are satisfied with its performance and features. More updates are being released for the product, having its documentation translated into Ukrainian and Brazilian Portuguese language in recent patches. Thus reaching more users in the market.
