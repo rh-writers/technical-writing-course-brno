@@ -1,0 +1,30 @@
+[[PhotoCollage]]
+== Photo Collage
+
+[[Description]]
+[.lead]
+Photo collage is a graphical tool/application used to gather a user's image gallery data and make collage posters according to the user's design or the results of the inbuilt algorithm.
+
+[[Functionality]]
+This functionality is achieved through images being automatically arranged to fill the poster design, and as the user, you can change the final layout, dimensions, border, or swap out photos. The final poster can be saved in any size.
+
+https://www.youtube.com/watch?v=_sI_Ps7JSEk[Jazz] Refer to xref:template-included-file-1.adoc#Template[Template] for more information.
+
+[[Features]]
+Beneficial features:
+
+- Comprehensive algorithm that generates random layouts that are space efficient.
+- Photos will fill space while maintaining aspect ratio.
+- Free of charge.
+- Open-source code.
+- Access to a library to create layouts and posters.
+- GTK graphical user interface.
+
+[[Technical Information]]
+Photo collage is coded in Python (v2 and 3) and requires Python Imaging Library(PIL).
+
+[[Target Users]]
+Used primarily by photographers and artists running Linux machines, who are looking for an open-source solution application to express their creativity and display their images in interesting and eye-catching layouts and posters. These posters are displayed on online blogs or forums, while others are printed out for offline display.
+
+
+Refer to xref:PhotoColage Part 2.adoc#PhotoColage Part 2[Part 2] for more information. 
