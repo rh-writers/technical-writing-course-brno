@@ -32,3 +32,7 @@ $ git config --get-regexp user
 user.name John Smith
 user.email john.smith@example.com
 ----
+
+[role="_additional-resources"]
+.Additional resources
+* link:https://git-scm.com/doc[Git Documentation]

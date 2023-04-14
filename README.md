@@ -54,7 +54,7 @@ In the second part of the lecture you will learn about languages to structure th
   * Alternatively, use the GitHub web interface.
   
 * Introducing single sourced and modular documentation, advantages of using markup languages with ability to set attributes and use conditions, overview of text editors, version control systems, and publishing tools, creating and generating documentation using AsciiDoc and AsciiDoctor
-* Link to the presentation - **TBA**
+* Link to the presentation - [Tooling - full slides](/slides/05-slides_tooling_full_students.pdf)
 
 ### 6th lecture: Usability: 21st March 2023
 * Usability of documented products, 10 usability heuristics, usability of documentation deliverables.
