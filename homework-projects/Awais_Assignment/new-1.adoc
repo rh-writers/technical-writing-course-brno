@@ -1,0 +1,9 @@
+[[new-1]]
+= new #1
+
+Last assignment. This is a  n#1 with a sample cross reference to xref:new-2.adoc[new#2].
+
+Taskwarrior is a free and open-source command-line task management tool. It helps
+users to manage, organize, and prioritize their daily tasks more efficiently. It helps users
+to keep track of their tasks and critical due dates. It allows users to focus and avoid
+distractions.
