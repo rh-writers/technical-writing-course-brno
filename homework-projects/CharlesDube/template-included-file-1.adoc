@@ -3,7 +3,7 @@
 
 [[Reference links to parts of document]]
 [.lead]
-Refer to xref:PhotoColage Part 1.adoc#PhotoColage Part 1[Part 1] for more information. 
+Refer to xref:PhotoCollage Part 1.adoc#PhotoColage Part 1[Part 1] for more information. 
 
 [%hardbreaks]
 Refer to xref:PhotoColage Part 2.adoc#PhotoColage Part 2[Part 2] for more information. 
