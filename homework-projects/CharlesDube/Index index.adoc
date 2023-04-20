@@ -14,9 +14,11 @@ This file *_index index_* is used to link you to the main document that has been
 . PhotoCollage Part 2
 . Image of tea :)
 
-include:: PhotoCollage Part 1.adoc[leveloffset=+1]
+[.lead]
+Refer to xref:PhotoColage Part 1.adoc#PhotoColage Part 1[Part 1] for first part of the document. 
 
-include:: PhotoCOllage Part 2.adoc[leveloffset=+1]
+[%hardbreaks]
+Refer to xref:PhotoColage Part 2.adoc#PhotoColage Part 2[Part 2] for second part of the document. 
 
 = Document gif
 :hide-uri-scheme:
