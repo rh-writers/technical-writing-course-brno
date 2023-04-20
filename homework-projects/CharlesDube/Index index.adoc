@@ -3,12 +3,24 @@
 :toc: left
 :toclevels: 3
 
-*Replace me:* This index file template contains two included files listed below.
+[What is Index file?]
 
-include::Draft Part 1.adoc[leveloffset=+1]
+[[Description]]
+[.lead]
+This file *_index index_* is used to link you to the main document that has been split into 2 parts.
 
-include::Draft Part 2.adoc[leveloffset=+1]
+[start=1]
+. PhotoCollage Part 1
+. PhotoCollage Part 2
+. Image of tea :)
 
-include::https://media.tenor.com/OqvDDg1mwCMAAAAC/i-dont-know-what-the-hell-im-doing-matt-logelin.gif[leveloffset=+1]
+include::PhotoCollage Part 1.adoc[leveloffset=+1]
+
+include::PhotoCOllage Part 2.adoc[leveloffset=+1]
+
+= Document gif
+:hide-uri-scheme:
+
+https://media.tenor.com/OqvDDg1mwCMAAAAC/i-dont-know-what-the-hell-im-doing-matt-logelin.gif[leveloffset=+1]
 
 image::tea.jpg[]
