@@ -14,9 +14,9 @@ This file *_index index_* is used to link you to the main document that has been
 . PhotoCollage Part 2
 . Image of tea :)
 
-include::PhotoCollage Part 1.adoc[leveloffset=+1]
+include:: PhotoCollage Part 1.adoc[leveloffset=+1]
 
-include::PhotoCOllage Part 2.adoc[leveloffset=+1]
+include:: PhotoCOllage Part 2.adoc[leveloffset=+1]
 
 = Document gif
 :hide-uri-scheme:
