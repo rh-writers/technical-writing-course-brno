@@ -1,7 +1,7 @@
 [[PhotoCollage]]
 == Photo Collage
 
-==Reference links to parts of document
+== Reference links to parts of document
 [.lead]
 Refer to xref:PhotoCollage Part 1.adoc#PhotoColage Part 1[Part 1] for more information. 
 
