@@ -20,9 +20,4 @@ Refer to xref:PhotoCollage Part 1.adoc#PhotoColage Part 1[Part 1] for first part
 [%hardbreaks]
 Refer to xref:PhotoColage Part 2.adoc#PhotoColage Part 2[Part 2] for second part of the document. 
 
-= Document gif
-:hide-uri-scheme:
 
-https://media.tenor.com/OqvDDg1mwCMAAAAC/i-dont-know-what-the-hell-im-doing-matt-logelin.gif[leveloffset=+1]
-
-image::tea.jpg[]
