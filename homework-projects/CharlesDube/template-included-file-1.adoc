@@ -3,10 +3,10 @@
 
 == Reference links to parts of document
 [.lead]
-Refer to xref:PhotoCollage Part 1.adoc#PhotoColage Part 1[Part 1] for more information. 
+Refer to xref:PhotoCollage Part 1.adoc#PhotoCollage Part 1[Part 1] for more information. 
 
 [%hardbreaks]
-Refer to xref:PhotoColage Part 2.adoc#PhotoColage Part 2[Part 2] for more information. 
+Refer to xref:PhotoCollage Part 2.adoc#PhotoCollage Part 2[Part 2] for more information. 
 
 [[UserFeedback]]
 With 352 stars on Github, PhotoCollage has a following of users that are satisfied with its performance and features. More updates are being released for the product, having its documentation translated into Ukrainian and Brazilian Portuguese language in recent patches. Thus reaching more users in the market.
