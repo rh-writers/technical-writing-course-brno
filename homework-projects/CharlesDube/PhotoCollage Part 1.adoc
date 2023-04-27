@@ -30,4 +30,4 @@ Photo collage is coded in Python (v2 and 3) and requires Python Imaging Library(
 Used primarily by photographers and artists running Linux machines, who are looking for an open-source solution application to express their creativity and display their images in interesting and eye-catching layouts and posters. These posters are displayed on online blogs or forums, while others are printed out for offline display.
 
 
-Refer to xref:PhotoColage Part 2.adoc#PhotoColage Part 2[Part 2] for more information. 
+Refer to xref:PhotoCollage Part 2.adoc#PhotoCollage Part 2[Part 2] for more information. 
