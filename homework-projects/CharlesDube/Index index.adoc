@@ -20,4 +20,6 @@ Refer to xref:PhotoCollage Part 1.adoc#PhotoCollage Part 1[Part 1] for first par
 [%hardbreaks]
 Refer to xref:PhotoCollage Part 2.adoc#PhotoCollage Part 2[Part 2] for second part of the document. 
 
+image::tea.jpg[tea,640,480]
+
 
