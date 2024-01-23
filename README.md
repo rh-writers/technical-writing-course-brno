@@ -42,10 +42,10 @@ The lecture overview is only **tentative**.
 
 ### 6th lecture: Tools II: 26th March 2024
 * **Prerequisites for this lecture:**
-  * [Sign up for a GitHub account] (https://github.com/join).
-  * [Add ssh keys to your Github account] (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
-  * [Install Git] (https://github.com/git-guides/install-git).
-  * [Set your commit email address in Git (https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address#setting-your-commit-email-address-in-git).
+  * [Sign up for a GitHub account](https://github.com/join).
+  * [Add ssh keys to your Github account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
+  * [Install Git](https://github.com/git-guides/install-git).
+  * [Set your commit email address in Git](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address#setting-your-commit-email-address-in-git).
 * Introduction to version control system and Git, using Git command line and GitHub.
   
 ### 7th lecture: Tools III and Hard skills: 2nd April 2024
