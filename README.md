@@ -2,12 +2,8 @@
 
 ![Continuous Integration](https://github.com/rh-writers/technical-writing-course-brno/actions/workflows/ci.yml/badge.svg)
 
-**Disclaimer:** This information is outdated and will be replace with a new document containing the full-semester course for 2024.
-
 -----
-During the spring semester 2023, we start a pilot project to teach the basics of technical writing at the Faculty of Informatics, Masaryk university. You can find more information as follows.
-
-**Disclaimer:** This is a pilot version of the course.
+Learn the essentials of technical communication in IT in a semester-long course at the Faculty of Informatics, Masaryk university.
 
 ## General information:
 
@@ -17,48 +13,59 @@ During the spring semester 2023, we start a pilot project to teach the basics of
 * Prepare students to write better documentation for their future projects.
 * Train purposeful, minimalist writing and clear communication.
 
+<!-- OUTDATED
 **Course overview:** https://research.redhat.com/courses/muni-techwriting-spring2023/
 
-## Information only for MUNI students - spring 2023
-For information about assesment, homework and grading, see [Information for MUNI students - spring 2023](MUNI-students-spring2023.pdf)
+## Information only for MUNI students - spring 2024
+For information about assesment, homework and grading, see [Information for MUNI students - spring 2023](MUNI-students-spring2023.pdf)-->
 
 
 ## Lecture Overview
 The lecture overview is only **tentative**.
 
-### 1st lecture: Introduction to technical writing: 14th February 2023
-* Definition and purpose of technical writing, comparison between different writing styles, a day in the life of a technical writer, types of technical documentation and their specifics, target audience.
-* Link to the presentation: [Introduction slides](/slides/01-slides-Introduction-students.pdf)
+### 1st lecture: Introduction to technical writing: 20th February 2024
+* Definition and purpose of technical writing, a day in the life of a technical writer, types of technical documentation and their specifics, target audience.
 
-### 2nd lecture: Style: 21st February 2023
-* Accessibility, readability, findability, minimalism, modularity, and structure; user focus and information flow, style guides.
-* Link to the presentation - [Style slides](/slides/02-slides_Style_students.pdf)
+### 2nd lecture: Style I: 27th February 2024
+* Comparison of writing styles, Types of technical documentation, objectives of TW style: Accessibility, Readability, Searchability
 
-### 3rd lecture: Soft skills: 28th February 2023
-* Definition of soft skills; empathy, ethics, cultural awareness, communication skills, curiosity, proactivity, editorial skills, time management.
-* Link to the presentation - [Soft skills slides](/slides/03-slides_Soft-skills_students.pdf)
+### 3rd lecture: Style II: 5th March 2024
+* Minimalism, modularity and structure, user focus and information flow, writing for global audiences. 
 
-### 4th lecture: Hard skills: 7th March 2023
-#### Part 1. Hard skills
-* Definition of hard skills in technical writing, why we need them, product knowledge - engagement with the development team, understanding user personas, teamwork across QE, product owners, engineers, support teams, planning for tech writing, how to create technical content, content strategy, agile.
-In the second part of the lecture you will learn about languages to structure the text.
-* Link to the presentation - [Hard skills slides](/slides/04-slides_Hard-skills_students.pdf)
-#### Part 2. Tooling
+### 4th lecture: Tools I: 12th March 2024
 * **Prerequisites for this lecture:**
   * Bring laptop with working operating system to which you have access.
-* Introduction to tooling: markup languages and editors.
-* Link to the presentation - [Tooling - part 1 slides](/slides/05-slides_tooling_part-1_students.pdf)
+* Introduction to markup languages and text editors, creating and generating documentation using Markdown.
 
-### 5th lecture: Tooling: 14th March 2023
+### 5th lecture: Style III: 19th March 2024
+* Style guides: Why and how they are useful, various major style guides for technical writing (IBM, Microsoft, Google), comparison, common principles, applying them in practice.
+
+### 6th lecture: Tools II: 26th March 2024
 * **Prerequisites for this lecture:**
-  * Install AsciiDoctor on your computer. For details, see [AsciiDoctor installation instructions](https://github.com/rh-writers/technical-writing-course-brno/blob/main/asciidoctor_installation.adoc).
-  * Sign up for a GitHub account.
-  * Set up Git and SSH keys on your computer if you work from the command line. For details, see [Git configuration instructions](https://github.com/rh-writers/technical-writing-course-brno/blob/main/Git-install.adoc).
-  * Alternatively, use the GitHub web interface.
+  * [Sign up for a GitHub account] (https://github.com/join).
+  * [Add ssh keys to your Github account] (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
+  * [Install Git] (https://github.com/git-guides/install-git).
+  * [Set your commit email address in Git (https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address#setting-your-commit-email-address-in-git).
+* Introduction to version control system and Git, using Git command line and GitHub.
   
-* Introducing single sourced and modular documentation, advantages of using markup languages with ability to set attributes and use conditions, overview of text editors, version control systems, and publishing tools, creating and generating documentation using AsciiDoc and AsciiDoctor
-* Link to the presentation - [Tooling - full slides](/slides/05-slides_tooling_full_students.pdf)
+### 7th lecture: Tools III and Hard skills: 2nd April 2024
+#### Part 1. Tools III:
+* Publishing tools.
 
-### 6th lecture: Usability: 21st March 2023
-* Usability of documented products, 10 usability heuristics, usability of documentation deliverables.
-* Link to the presentation - **TBA**
+#### Part 2. Hard skills:
+* Definition of hard skills in technical writing, why we need them, product knowledge, overview of the development cycle and the documentation’s place in it. Collaborating with product owners, engineers, QE, support teams, content strategy, release management, planning for tech writing, how to create technical content.
+
+### 8th lecture: Usability: 9th April 2024
+* Real-life usability of documented products, designing user experience, 10 usability heuristics, practical applicability of documentation.
+
+### 9th lecture: Soft skills: 16th April 2024
+* Empathy, ethics, cultural awareness, communication skills, curiosity, proactivity, editorial skills, and time management.
+
+### 10th lecture: Large language models and generative tools: 23rd April 2024
+* Usage of AI tools in technical documentation, recommendations, risks, and limitations of AI tools.
+
+### 11th lecture: Crowdsourced peer review session: 30th April 2024
+* Peer review session and broader concepts of technical writing.
+
+### 12th lecture: Presentation of final project: 7th May 2024
+* Presenting a project, documentation planning, release cycle, release notes, questions.
