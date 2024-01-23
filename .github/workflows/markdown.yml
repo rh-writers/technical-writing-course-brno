@@ -1,0 +1,11 @@
+- name: Generate HTML from Markdown
+  uses: ldeluigi/markdown-docs@latest
+  with:
+    src: .
+    dst: generated
+    title: The fundamentals of technical writing
+    language: en
+    icon: library
+    primary-color: indigo
+    secondary-color: indigo
+    hide-repository: false
