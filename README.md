@@ -4,6 +4,7 @@
 
 -----
 Learn the essentials of technical communication in IT in a semester-long course at the Faculty of Informatics, Masaryk university.
+**Disclaimer:** This is a pilot version of the full semester course.
 
 ## General information:
 
@@ -13,6 +14,12 @@ Learn the essentials of technical communication in IT in a semester-long course 
 * Prepare students to write better documentation for their future projects.
 * Train purposeful, minimalist writing and clear communication.
 
+**Highlights 2024:**
+* Focus on hands-on experience during the lectures (markup, Git, usability, AI)
+* New final project to complete over 6 weeks, a real-life open-source project so that students could contribute to it with their documentation after being evaluated
+* **New content**: Style guides, Markdown, publishing tools, large language models and generative tools, crowdsourced peer review, release cycle 
+* **New experience**: Contributing to an open-source project: what you write, matters! Following the complete release cycle (setting up a repo, writing a draft, interviewing subject matter experts, applying markup used for the upstream project, using style principles, conducting and applying peer review, finalizing project, presenting it, publishing).
+  
 <!-- OUTDATED
 **Course overview:** https://research.redhat.com/courses/muni-techwriting-spring2023/
 
@@ -24,17 +31,17 @@ For information about assesment, homework and grading, see [Information for MUNI
 The lecture overview is only **tentative**.
 
 ### 1st lecture: Introduction to technical writing: 20th February 2024
-* Definition and purpose of technical writing, a day in the life of a technical writer, types of technical documentation and their specifics, target audience.
+* Organization and requirements, definition and purpose of technical writing, a day in the life of a technical writer, types of technical documentation and their specifics, target audience.
 
 ### 2nd lecture: Style I: 27th February 2024
-* Comparison of writing styles, Types of technical documentation, objectives of TW style: Accessibility, Readability, Searchability
+* Comparison of writing styles, types of technical documentation, objectives of TW style: Accessibility, Readability, Searchability.
 
 ### 3rd lecture: Style II: 5th March 2024
 * Minimalism, modularity and structure, user focus and information flow, writing for global audiences. 
 
 ### 4th lecture: Tools I: 12th March 2024
 * **Prerequisites for this lecture:**
-  * Bring laptop with working operating system to which you have access.
+  * Bring a laptop with working operating system to which you have access.
 * Introduction to markup languages and text editors, creating and generating documentation using Markdown.
 
 ### 5th lecture: Style III: 19th March 2024
