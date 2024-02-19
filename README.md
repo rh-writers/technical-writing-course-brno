@@ -19,12 +19,9 @@ Learn the essentials of technical communication in IT in a semester-long course 
 * New final project to complete over 6 weeks, a real-life open-source project so that students could contribute to it with their documentation after being evaluated
 * **New content**: Style guides, Markdown, publishing tools, large language models and generative tools, crowdsourced peer review, release cycle 
 * **New experience**: Contributing to an open-source project: what you write, matters! Following the complete release cycle (setting up a repo, writing a draft, interviewing subject matter experts, applying markup used for the upstream project, using style principles, conducting and applying peer review, finalizing project, presenting it, publishing).
-  
-<!-- OUTDATED
-**Course overview:** https://research.redhat.com/courses/muni-techwriting-spring2023/
 
 ## Information only for MUNI students - spring 2024
-For information about assesment, homework and grading, see [Information for MUNI students - spring 2023](MUNI-students-spring2023.pdf)-->
+For information about assesment, homework and grading, see [Information for MUNI students - spring 2024](MUNI-students-spring2024.pdf)
 
 
 ## Lecture Overview
