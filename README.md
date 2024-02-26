@@ -1,9 +1,8 @@
 # The fundamentals of technical writing | MUNI 2024
 
-![Continuous Integration](https://github.com/rh-writers/technical-writing-course-brno/actions/workflows/ci.yml/badge.svg)
-
 -----
 Learn the essentials of technical communication in IT in a semester-long course at the Faculty of Informatics, Masaryk university.
+
 **Disclaimer:** This is a pilot version of the full semester course.
 
 ## General information:
