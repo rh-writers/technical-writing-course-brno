@@ -42,6 +42,7 @@ The lecture overview is only **tentative**.
 
 ### 5th lecture: Style III: 19th March 2024
 * Style guides: Why and how they are useful, various major style guides for technical writing (IBM, Microsoft, Google), comparison, common principles, applying them in practice.
+* Bring a laptop with working internet connection so you can research TW Style Guides and complete in-class tasks.
 
 ### 6th lecture: Tools II: 26th March 2024
 * **Prerequisites for this lecture:**
