@@ -1,4 +1,4 @@
-u# Task
+# Task
 * Clone this repository (use SSH) https://github.com/rh-writers/technical-writing-course-brno 
 * Create a branch in your local repository.
 * List branches.
