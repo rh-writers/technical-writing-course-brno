@@ -70,6 +70,8 @@ The lecture overview is only **tentative**.
 
 ### 11th lecture: Crowdsourced peer review session: 30th April 2024
 * Peer review session and broader concepts of technical writing.
+   * [MR for crowd-sourced review](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/merge_requests/176)
+   * [Doc previews to download](https://drive.google.com/drive/folders/1HpD3zhhBSuUmRlVYksaht2vM3hkHuyY4?usp=sharing)
 
 ### 12th lecture: Presentation of final project: 7th May 2024
 * Presenting a project, documentation planning, release cycle, release notes, questions.
